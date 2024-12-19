@@ -26,16 +26,16 @@ _Sri Sathya Sai Institute of Higher Learning_
 _2020 - 2023_  
 _Grade: A+_
 
-- **Activities**: 2023 Campus Sports Captain, Cricket Captain, Tabla Performer, Orchestra , Drama  
+- **Activities**: 2023 Campus Sports Captain, Cricket Captain, Tabla Performer, Orchestra, Drama  
 
 <hr>
 
 ## 📈 **Certifications**
 
-- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified Cloud Practitioner**
-- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified Solutions Architect – Associate**
-- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified DevOps Engineer – Associate**
-- <img src="https://www.sas.com/content/dam/SAS/en_us/doc/logo/SAS-Logo-2018.svg" alt="SAS Logo" style="width:20px; vertical-align:middle;"> **SAS Certified Associate**
+- <img src="https://github.com/ssaketh-ch/ssaketh-ch.github.io/raw/master/img/AWS%20logo.jpeg" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified Cloud Practitioner**
+- <img src="https://github.com/ssaketh-ch/ssaketh-ch.github.io/raw/master/img/AWS%20logo.jpeg" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified Solutions Architect – Associate**
+- <img src="https://github.com/ssaketh-ch/ssaketh-ch.github.io/raw/master/img/AWS%20logo.jpeg" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified DevOps Engineer – Associate**
+- <img src="https://github.com/ssaketh-ch/ssaketh-ch.github.io/raw/master/img/SAS%20logo.jpeg" alt="SAS Logo" style="width:20px; vertical-align:middle;"> **SAS Certified Associate**
 
 <hr>
 
@@ -55,7 +55,7 @@ _Grade: A+_
 
 - **Other Interests**:  
   - Avid follower of Formula 1, cheering for RedBull Racing.  
-  - Enthusiastic about astronomy and space exploration.
+  - Enthusiastic about astronomy and space exploration.  
   - Built a Gaming PC in 2020. 
   - <details>
       <summary>Click here to view my PC specs</summary>
