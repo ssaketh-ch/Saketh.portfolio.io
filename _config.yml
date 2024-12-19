@@ -1,13 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -21,8 +11,7 @@ url: "https://ssaketh-ch.github.io" # the base hostname & protocol for your site
 linkedin_username: 'Sai Saketh Cherukuri'
 github_username: 'ssaketh-ch'
 resume_url: 'https://your-resume-link.com'  # Update with your actual resume URL
-footer_text: 'footer_text: '© 2024 Sai Saketh Cherukuri | <a href="https://www.linkedin.com/in/sai-saketh-cherukuri-825456250" target="_blank">LinkedIn</a> | <a href="https://github.com/ssaketh-ch" target="_blank">GitHub</a>'
-'
+footer_text: '© 2024 Sai Saketh Cherukuri | <a href="https://www.linkedin.com/in/sai-saketh-cherukuri-825456250" target="_blank">LinkedIn</a> | <a href="https://github.com/ssaketh-ch" target="_blank">GitHub</a>'
 
 # Build settings
 markdown: kramdown
@@ -32,7 +21,6 @@ plugins:
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
-# The values here represent the defaults if nothing is set
 paginate: 3  # Show 3 posts per page
 paginate_path: "/page:num/"
 
@@ -91,6 +79,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
+footer_text: '© 2024 Sai Saketh Cherukuri'
 admin_name: 'Sai Saketh Cherukuri'
 enable_contact: false
 
