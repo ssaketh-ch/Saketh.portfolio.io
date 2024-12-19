@@ -79,7 +79,6 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2024 Sai Saketh Cherukuri'
 admin_name: 'Sai Saketh Cherukuri'
 enable_contact: false
 
