@@ -3,203 +3,109 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](/index.html).
-
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+<div style="text-align:center; background-color:#f1f1f1; padding:30px;">
+  <h1 style="font-family: 'Arial', sans-serif; color:#2C3E50;">Hi, I'm Sai Saketh Cherukuri</h1>
+  <p style="font-size:18px; font-family: 'Helvetica', sans-serif; color:#34495E;">Master's student in Mathematics with specialization in Computer Science. Passionate about Deep Learning, Convolutional Neural Networks, CUDA Programming, and Computer Architecture.</p>
+</div>
 
 ---
 
-### Here is an unordered list:
+## 🎓 **Education**
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### **Master of Science (M.Sc)**  
+**Mathematics with specialization in Computer Science**  
+_Sri Sathya Sai Institute of Higher Learning_  
+_2024 - 2026_
 
-### And an ordered list:
+- **Activities**: Cricket, Soccer, Badminton, Multimedia, Tabla, Drums, **Chips and Bytes** (Computer Architecture Club)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### **Bachelor of Science (B.Sc)**  
+**Mathematics**  
+_Sri Sathya Sai Institute of Higher Learning_  
+_2020 - 2023_  
+_Grade: A+_
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
+- **Activities**: 2023 Campus Sports Captain, Cricket Captain, Tabla Performer, Orchestra , Drama  
 
 ---
 
-## Syntax highlighting
+## 📈 **Certifications**
 
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified DevOps Engineer – Associate**
+- **SAS Certified Associate**  
+  _(Bringing a strong arsenal into the world of data analytics and cloud computing)_
 
 ---
 
-#### Bash
+## 💡 **Skills**
 
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
+- **Amazon Web Services (AWS Cloud)**
+- **Cloud Data**
+- **Cloud Formation and Architecture**
+- **Cloud Security**
+- **Data Analytics**
+- **PyTorch**
+- **Assembly language**
 
-#### HTML
+---
 
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
+## **Languagues**
 
- </body>
-</html>
-{% endhighlight %}
+- **C**
+- **C++**
+- **Python**
+- **SAS**
+- **ARM Assembly**
 
-#### CSS
 
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
+## ⚽ **Extracurriculars**
 
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
+**2023 Sports Captain**: Led the campus cricket and football teams.  
+- 🏏 **Opening Batsman** for the inter-campus cricket team  
+- ⚽ Active player in the campus football team
+
+**Musical Interests**:  
+- **Tabla & Drums**: Passionate performer blending rhythmic precision with cultural expression.  
+- **Orchestra & Drama**: Member of the campus orchestra and drama teams.
+
+  **Other Interests**:
+  
+
+---
+
+## 🌐 **Find Me Online**
+
+- **GitHub**: [@ssaketh-ch](https://github.com/ssaketh-ch)
+- **LinkedIn**: [Sai Saketh Cherukuri](https://www.linkedin.com/in/sai-saketh-cherukuri-825456250/)
+
+---
+
+## 📬 **Contact Me**
+
+Feel free to reach out if you're interested in collaboration or have any questions!
+
+---
+
+### Custom CSS (Optional)
+
+```css
+/* Styles for the about page */
+h1 {
+  color: #2980b9;
+  font-family: 'Arial', sans-serif;
+  font-size: 2.5em;
 }
 
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
+h2 {
+  font-family: 'Georgia', serif;
+  color: #34495e;
 }
-{% endhighlight %}
 
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+p {
+  font-family: 'Verdana', sans-serif;
+  font-size: 1.2em;
+  color: #7f8c8d;
+}
