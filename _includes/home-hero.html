@@ -1,49 +1,52 @@
 <div class="container">
+
   <div class="row">
+
     <div class="col-md-12">
+
       <div class="hero-container">
+
         <div class="hero-content">
+
           {% if site.title != '' %}
-            <h1 class="text-center">{{ site.title }}</h1>
+          <h1 class="text-center">{{ site.title }}</h1>
           {% endif %}
 
           {% if site.description != '' or site.enable_contact == true %}
-            <p class="text-center">
-              {% if site.description != '' %}
-                {{ site.description }}
-              {% endif %}
-              {% if site.enable_contact == true %}
-                {% include contact.html %}
-                {% include contact-modal.html %}
-              {% endif %}
-            </p>
+          <p class="text-center">
+            {% if site.description != '' %}
+            {{ site.description }}
+            {% endif %}
+
+            {% if site.enable_contact == true %}
+            {% include contact.html %}
+            {% include contact-modal.html %}
+            {% endif %}
+          </p>
           {% endif %}
 
           <div class="hero-buttons">
-            {% if site.linkedin_username != '' %}
-              <a href="https://www.linkedin.com/in/{{https://www.linkedin.com/in/sai-saketh-cherukuri-825456250}}" target="_blank">
-                <button class="btn btn-default btn-lg">
-                  <i class="fa fa-linkedin fa-lg"></i>LinkedIn
-                </button>
-              </a>
-            {% endif %}
-            {% if site.github_username != '' %}
-              <a href="https://github.com/{{https://github.com/ssaketh-ch}}" target="_blank">
-                <button class="btn btn-default btn-lg">
-                  <i class="fa fa-github fa-lg"></i>GitHub
-                </button>
-              </a>
-            {% endif %}
-            {% if site.resume_url != '' %}
-              <a href="{{ site.resume_url }}" target="_blank">
-                <button class="btn btn-default btn-lg">
-                  <i class="fa fa-file-pdf fa-lg"></i>Resume
-                </button>
-              </a>
-            {% endif %}
+
+            <a href="https://www.linkedin.com/in/sai-saketh-cherukuri-825456250" target="_blank">
+              <button class="btn btn-default btn-lg">
+                <i class="fa fa-linkedin fa-lg"></i> LinkedIn
+              </button>
+            </a>
+            <a href="https://github.com/ssaketh-ch" target="_blank">
+              <button class="btn btn-default btn-lg">
+                <i class="fa fa-github fa-lg"></i> GitHub
+              </button>
+            </a>
+            <a href="https://your-resume-link.com" target="_blank">
+              <button class="btn btn-default btn-lg">
+                <i class="fa fa-file-pdf fa-lg"></i> Resume
+              </button>
+            </a>
+
           </div>
 
         </div>
+
       </div>
 
       <a class="section-jump text-center" href="#portfolio">
@@ -51,5 +54,7 @@
       </a>
 
     </div>
+
   </div>
+
 </div>
