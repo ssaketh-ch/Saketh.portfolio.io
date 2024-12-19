@@ -21,7 +21,8 @@ url: "https://ssaketh-ch.github.io" # the base hostname & protocol for your site
 linkedin_username: 'Sai Saketh Cherukuri'
 github_username: 'ssaketh-ch'
 resume_url: 'https://your-resume-link.com'  # Update with your actual resume URL
-footer_text: '© 2024 Sai Saketh Cherukuri | LinkedIn: www.linkedin.com/in/sai-saketh-cherukuri-825456250 | GitHub: https://github.com/ssaketh-ch'
+footer_text: 'footer_text: '© 2024 Sai Saketh Cherukuri | <a href="https://www.linkedin.com/in/sai-saketh-cherukuri-825456250" target="_blank">LinkedIn</a> | <a href="https://github.com/ssaketh-ch" target="_blank">GitHub</a>'
+'
 
 # Build settings
 markdown: kramdown
