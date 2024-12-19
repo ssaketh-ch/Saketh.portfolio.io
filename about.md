@@ -56,7 +56,7 @@ _Grade: A+_
 - **Other Interests**:  
   - Avid follower of Formula 1, cheering for RedBull Racing.  
   - Enthusiastic about astronomy and space exploration.  
-  - Built a Gaming PC in 2020. 
+  - Built a Gaming PC in 2020.
   - <details>
       <summary>Click here to view my PC specs</summary>
       <ul>
