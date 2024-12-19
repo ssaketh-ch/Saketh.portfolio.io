@@ -32,10 +32,10 @@ _Grade: A+_
 
 ## 📈 **Certifications**
 
-- AWS Certified Cloud Practitioner  
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified DevOps Engineer – Associate  
-- SAS Certified Associate  
+- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified Cloud Practitioner**
+- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified Solutions Architect – Associate**
+- <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" style="width:20px; vertical-align:middle;"> **AWS Certified DevOps Engineer – Associate**
+- <img src="https://www.sas.com/content/dam/SAS/en_us/doc/logo/SAS-Logo-2018.svg" alt="SAS Logo" style="width:20px; vertical-align:middle;"> **SAS Certified Associate**
 
 <hr>
 
@@ -54,9 +54,20 @@ _Grade: A+_
 - **Musical Talents**: Skilled in Tabla and Drums, contributing to orchestra performances.  
 
 - **Other Interests**:  
-  - Built a Gaming PC in 2020—[view specs](link).  
+  - Built a Gaming PC in 2020—[view specs](#pc-specs).  
   - Avid follower of Formula 1, cheering for RedBull Racing.  
   - Enthusiastic about astronomy and space exploration.  
+  - <details>
+      <summary>Click here to view my PC specs</summary>
+      <ul>
+        <li><strong>CPU:</strong> AMD Ryzen 5 3600XT</li>
+        <li><strong>GPU:</strong> Radeon 5700XT 8GB OC Edition</li>
+        <li><strong>RAM:</strong> Corsair Vengeance RGB Pro 32GB (2 x 16GB) DDR4-3200</li>
+        <li><strong>PSU:</strong> PowerSpec 650 Watt 80 Plus Bronze ATX Semi-Modular</li>
+        <li><strong>Case:</strong> Corsair iCUE 465X RGB Tempered Glass ATX Mid-Tower</li>
+        <li><strong>CPU Cooler:</strong> Corsair H100i Capellix Liquid Cooler</li>
+      </ul>
+    </details>
 
 <hr>
 
