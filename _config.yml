@@ -6,7 +6,7 @@
 title: "Hello. I'm Sai Saketh Cherukuri."
 email: 'ssaketh.2002@gmail.com'
 description: "I'm currently a student at SSSIHL pursuing my M.Sc. in Mathematics with specialization in Computer Science."
-baseurl: "https://ssaketh-ch.github.io/Saketh.portfolio.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ssaketh-ch.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'Sai Saketh Cherukuri'
 github_username: 'ssaketh-ch'
