@@ -54,10 +54,10 @@ _Grade: A+_
 - **Musical Talents**: Skilled in Tabla and Drums, contributing to orchestra performances.  
 
 - **Other Interests**:  
-  - Built a Gaming PC in 2020—[view specs](#pc-specs).  
   - Avid follower of Formula 1, cheering for RedBull Racing.  
-  - Enthusiastic about astronomy and space exploration.  
-  - <details>
+  - Enthusiastic about astronomy and space exploration.
+  - Built a Gaming PC in 2020. 
+  <details>
       <summary>Click here to view my PC specs</summary>
       <ul>
         <li><strong>CPU:</strong> AMD Ryzen 5 3600XT</li>
